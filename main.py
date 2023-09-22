@@ -105,4 +105,4 @@ async def on_message(message):
 
 
 # Start the bot with your token
-bot.run("MTE1NDA3MDEzOTc2ODE1NjI2MQ.GDEU-O.uOJaH9lJ7Hf0S_grjPG1oUQX7EM4aZ94bXSSpY")
+bot.run("TOKEN HERE")
